@@ -9005,9 +9005,9 @@ function Rd() {
     u = () => {
       const i = [
         "No",
-        "Are you sure?",
-        "Really sure?",
-        "Think again!",
+        "E du rikti säker?????",
+        "Påriktigt?",
+        "nämen kom igen nu!",
         "Last chance!",
         "Surely not?",
         "You might regret this!",
@@ -9029,7 +9029,7 @@ function Rd() {
       ? le.jsxs(le.Fragment, {
           children: [
             le.jsx("img", {
-              src: "https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif",
+              src: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFsNW9zNnJ5ZmJjbGNxYjdjZ2pyeHEzemR3YzNhdWg3NXM2MHozMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif",
             }),
             le.jsx("div", {
               className: "text-4xl font-bold my-4",
@@ -9041,7 +9041,7 @@ function Rd() {
           children: [
             le.jsx("img", {
               className: "h-[200px]",
-              src: "https://media1.tenor.com/m/A_WSF_GK9JwAAAAd/minions-minion-in-love.gif",
+              src: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9keno0cjd0ajVlNHpndjdhaHU4ZTAzeml3a2hpdjZiaTF2dDZ4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gpqk76tiVKjn2/giphy.gif",
             }),
             le.jsx("h1", {
               className: "text-4xl my-4",

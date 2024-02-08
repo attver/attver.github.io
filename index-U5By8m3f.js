@@ -9033,7 +9033,7 @@ function Rd() {
             }),
             le.jsx("div", {
               className: "text-4xl font-bold my-4",
-              children: "Ok yay!!!",
+              children: "Tänkt he å.",
             }),
           ],
         })
